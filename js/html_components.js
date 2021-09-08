@@ -61,7 +61,7 @@ function createModal(index) {
                 <img class="modal-img" src="${picture.large}" alt="profile picture">
                 <h3 id="name" class="modal-name cap">${name.first} ${name.last}</h3>
                 <p class="modal-text">${email}</p>
-                <p class="modal-text cap">${location.city}, ${location.state}</p>
+                <p class="modal-text cap">${city}, ${state}</p>
                 <hr>
                 <p class="modal-text">${phoneNum}</p>
                 <p class="modal-text">${street.number} ${street.name} ${city}, ${state} ${postcode}</p>
