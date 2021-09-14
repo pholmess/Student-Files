@@ -24,4 +24,5 @@ I hope you enjoy finding yourself and your colleagues in the directory. Please r
 
 Have a great day!
 
-Sherri Holmes, Web Developer
+<p><strong>Sherri Holmes</p></strong>
+<p><strong>Web Developer</p></strong>
